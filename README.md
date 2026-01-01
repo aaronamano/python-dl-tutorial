@@ -7,3 +7,8 @@ pip install tensorflow numpy matplotlib
 conda deactivate
 ```
 ## Topics
+- input, hidden, and output layers
+- Weight, value, bias
+- Activation functions
+- Loss functions
+- Epochs
